@@ -1,0 +1,103 @@
+# Metadata
+reference:
+    abundant_rna_file: NA
+    ensembl_ver: r6.46
+    ensembl_gtf: data/00ref/dmel-all-r6.46.gtf
+    genome_build: dmel-r6.46
+    genome_file: data/00ref/dmel-all-chromosome-r6.46.fasta
+    star_index: 00ref
+    genome_source: flybase
+remove_duplicated_reads: false
+star_db:
+    sjdbOverhang: 74
+samples:
+    F_0_24hr_rep1:
+    F_0_24hr_rep2:
+    F_0_24hr_rep3:
+    F_0_2hr_rep1:
+    F_0_2hr_rep2:
+    F_0_2hr_rep3:
+    F_0_48hr_rep1:
+    F_0_48hr_rep2:
+    F_0_48hr_rep3:
+    F_0_4hr_rep1:
+    F_0_4hr_rep2:
+    F_0_4hr_rep3:
+    F_0.5_24hr_rep1:
+    F_0.5_24hr_rep2:
+    F_0.5_24hr_rep3:
+    F_0.5_2hr_rep1:
+    F_0.5_2hr_rep2:
+    F_0.5_2hr_rep3:
+    F_0.5_48hr_rep1:
+    F_0.5_48hr_rep2:
+    F_0.5_48hr_rep3:
+    F_0.5_4hr_rep1:
+    F_0.5_4hr_rep2:
+    F_0.5_4hr_rep3:
+    F_0.5_8hr_rep1:
+    F_0.5_8hr_rep2:
+    F_0.5_8hr_rep3:
+    F_0_8hr_rep1:
+    F_0_8hr_rep2:
+    F_0_8hr_rep3:
+    F_2_24hr_rep1:
+    F_2_24hr_rep2:
+    F_2_24hr_rep3:
+    F_2_48hr_rep1:
+    F_2_48hr_rep2:
+    F_3.5_24hr_rep3:
+    F_3.5_48hr_rep1:
+    F_3.5_48hr_rep2:
+    F_3.5_48hr_rep3:
+    F_7_24hr_rep1:
+    F_7_24hr_rep2:
+    F_7_24hr_rep3:
+    F_7_48hr_rep1:
+    F_7_48hr_rep2:
+    F_7_48hr_rep3:
+    M_0_24hr_rep1:
+    M_0_24hr_rep2:
+    M_0_24hr_rep3:
+    M_0_2hr_rep1:
+    M_0_2hr_rep2:
+    M_0_2hr_rep3:
+    M_0_48hr_rep1:
+    M_0_48hr_rep2:
+    M_0_48hr_rep3:
+    M_0_4hr_rep1:
+    M_0_4hr_rep2:
+    M_0_4hr_rep3:
+    M_0.5_24hr_rep1:
+    M_0.5_24hr_rep2:
+    M_0.5_24hr_rep3:
+    M_0.5_2hr_rep1:
+    M_0.5_2hr_rep2:
+    M_0.5_2hr_rep3:
+    M_0.5_48hr_rep1:
+    M_0.5_48hr_rep2:
+    M_0.5_48hr_rep3:
+    M_0.5_4hr_rep1:
+    M_0.5_4hr_rep2:
+    M_0.5_4hr_rep3:
+    M_0.5_8hr_rep1:
+    M_0.5_8hr_rep2:
+    M_0.5_8hr_rep3:
+    M_0_8hr_rep1:
+    M_0_8hr_rep2:
+    M_0_8hr_rep3:
+    M_2_24hr_rep1:
+    M_2_24hr_rep2:
+    M_2_24hr_rep3:
+    M_2_48hr_rep1:
+    M_2_48hr_rep2:
+    M_2_48hr_rep3:
+    M_3.5_24hr_rep1:
+    M_3.5_24hr_rep3:
+    M_3.5_48hr_rep3:
+    M_7_24hr_rep1:
+    M_7_24hr_rep2:
+    M_7_24hr_rep3:
+    M_7_48hr_rep1:
+    M_7_48hr_rep2:
+    M_7_48hr_rep3:
